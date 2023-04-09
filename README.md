@@ -21,13 +21,13 @@ To use these projects, clone the repository and run the Python scripts or Jupyte
 Working Model
 A working model is available for each project at the following links:
 
-50_STARTUP : https://huggingface.co/spaces/Uday007/startup-profit-predictor
-DIAMONDS_ : https://huggingface.co/spaces/Uday007/Diamonds-price-predictor
-INSURANCE : https://huggingface.co/spaces/Uday007/Insurance-Predictor
-KC_HOUSEDATA : https://huggingface.co/spaces/Uday007/House-Price-Predictor
-OIL_DATASET : https://huggingface.co/spaces/Uday007/Oil-Price-Predictor
-PENGUIN : https://huggingface.co/spaces/Uday007/Penguin-BodyMass-Predictor
-PURCHASED : https://huggingface.co/spaces/Uday007/Purchased
+1. 50_STARTUP : https://huggingface.co/spaces/Uday007/startup-profit-predictor
+2. DIAMONDS_ : https://huggingface.co/spaces/Uday007/Diamonds-price-predictor
+3. INSURANCE : https://huggingface.co/spaces/Uday007/Insurance-Predictor
+4. KC_HOUSEDATA : https://huggingface.co/spaces/Uday007/House-Price-Predictor
+5. OIL_DATASET : https://huggingface.co/spaces/Uday007/Oil-Price-Predictor
+6. PENGUIN : https://huggingface.co/spaces/Uday007/Penguin-BodyMass-Predictor
+7. PURCHASED : https://huggingface.co/spaces/Uday007/Purchased
 
 About Me
 I am a machine learning enthusiast with a passion for solving real-world problems using data-driven approaches. These projects showcase my technical abilities and approach to solving machine learning problems. Please feel free to contact me if you have any questions or feedback.
