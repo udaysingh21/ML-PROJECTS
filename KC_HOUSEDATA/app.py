@@ -1,4 +1,4 @@
-import imp
+import importlib
 from tkinter import Label
 import gradio as gd 
 import pandas as pd

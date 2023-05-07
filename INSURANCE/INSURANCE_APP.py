@@ -24,7 +24,7 @@ def predict_expenses(
     }
 
     xinp=pd.DataFrame(data)
-    print(xinp)
+    # print(xinp)
 
     expenses=model.predict(xinp)
     return expenses[0]
