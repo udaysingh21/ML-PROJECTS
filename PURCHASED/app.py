@@ -11,7 +11,7 @@ def purchase(
     UserID,Gender,Age,EstimatedSalary
 ):
 
-    model=load("purchased.jb")
+    model=load("purchased1.jb")
 
     data={
         "UserID":[UserID],

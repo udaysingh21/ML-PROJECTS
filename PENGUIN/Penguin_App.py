@@ -9,7 +9,7 @@ from joblib import load
 def predict_bodymass(
     FlipperLength,
 ):
-    model=load("PENGUIN\penguin_predictor.jb")
+    model=load("penguin_predictor.jb")
 
     # Create dict array from parameters
     data={

@@ -11,7 +11,7 @@ def predict_price(
     grade,sqft_above,sqft_basement,yr_built,yr_renovated,
     zipcode,lat,long,sqft_living15,sqft_lot15
 ):
-    model=load("KC_HOUSEDATA\housedata.jb")
+    model=load("housedata.jb")
 
     # Create dict array from parameters
     data={

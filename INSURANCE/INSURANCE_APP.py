@@ -11,7 +11,7 @@ def predict_expenses(
     ):
 
     # Load the model
-    model=load("INSURANCE\insurancepredict.jb")
+    model=load("insurancepredict.jb")
 
     # Create dict array from parameters
     data={

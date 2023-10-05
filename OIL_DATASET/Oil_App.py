@@ -8,7 +8,7 @@ def predict_price(
     Mendacium,Depth
 ):
 
-    model=load("OIL_DATASET\oil_predictor.jb")
+    model=load("oil_predictor.jb")
 
     # Create dict array from parameters
     data={
